@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Alikhan Gubayev, currently student at KBTU 
+📍 Almaty, Kazakhstan
 
 <!--
 **akidra4L/akidra4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
