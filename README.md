@@ -1,6 +1,6 @@
 ### Hi! 👋
-I am Alikhan Gubayev, currently student at KBTU. <br>
-📍 Almaty, Kazakhstan. <br>
+I am Alikhan Gubayev, currently student at KBTU. <br />
+📍 Almaty, Kazakhstan. <br /> 
 
 #### Skills: 
 <ul>
