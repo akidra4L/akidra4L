@@ -2,6 +2,14 @@
 I am Alikhan Gubayev, currently student at KBTU. <br>
 📍 Almaty, Kazakhstan.
 
+<ul>
+  <li>C/C++</li>
+  <li>Python</li>
+  <li>React.JS</li>
+  <li>Node.JS</li>
+  <li>PostgreSQL, MongoDB</li>
+</ul>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikhan-gubayev-773855233/)
 
 <!--
