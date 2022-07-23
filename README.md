@@ -2,7 +2,7 @@
 I am Alikhan Gubayev, currently student at KBTU. <br>
 📍 Almaty, Kazakhstan.
 
-[![linkedin]](https://www.linkedin.com/in/alibek-seitov-2b7055243/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikhan-gubayev-773855233/)
 
 <!--
 **akidra4L/akidra4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
