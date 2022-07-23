@@ -4,7 +4,6 @@ I am Alikhan Gubayev, currently student at KBTU. <br>
 
 #### Skills: 
 <ul>
-  <h4>Skills:</h4> 
   <li>C/C++</li>
   <li>Python</li>
   <li>HTML/CSS, SASS, JavaScript</li>
