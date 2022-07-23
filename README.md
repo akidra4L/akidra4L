@@ -6,7 +6,7 @@ I am Alikhan Gubayev, currently student at KBTU. <br>
 <ul>
   <li>C/C++</li>
   <li>Python</li>
-  <li>HTML/CSS, JS</li>
+  <li>HTML/CSS, JavaScript</li>
   <li>React.JS, Node.JS</li>
   <li>PostgreSQL, MongoDB</li>
 </ul>
