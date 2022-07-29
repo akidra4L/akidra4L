@@ -4,8 +4,6 @@ I am Alikhan Gubayev, currently student at KBTU. <br />
 
 #### Skills: 
 <ul>
-  <li>C/C++</li>
-  <li>Python</li>
   <li>HTML/CSS, SASS, JavaScript</li>
   <li>React.JS, Node.JS</li>
   <li>PostgreSQL, MongoDB</li>
