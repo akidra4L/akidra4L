@@ -1,3 +1,4 @@
+<span align="center">
 ### Hi! 👋
 I am Alikhan Gubayev, currently student at KBTU. <br />
 📍 Almaty, Kazakhstan. <br /> 
@@ -14,6 +15,7 @@ I am Alikhan Gubayev, currently student at KBTU. <br />
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=akidra4L)](https://github.com/LordDashMe/github-contribution-stats/)
 
+</span>
 <!--
 **akidra4L/akidra4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
