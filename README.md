@@ -1,7 +1,8 @@
-<span align="center">
 ### Hi! 👋
 I am Alikhan Gubayev, currently student at KBTU. <br />
 📍 Almaty, Kazakhstan. <br /> 
+
+<span align="center">
 
 <!--
 #### Skills: 
