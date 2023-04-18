@@ -4,7 +4,7 @@ I am Alikhan Gubayev, currently student at KBTU. <br />
 
 ### Top Languages Card:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akidra4L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akidra4L&count_private=true)
 
 <!--
 #### Skills: 
