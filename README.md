@@ -2,6 +2,10 @@
 I am Alikhan Gubayev, currently student at KBTU. <br />
 📍 Almaty, Kazakhstan. <br /> 
 
+### Top Languages Card:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akidra4L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 #### Skills: 
 <ul>
