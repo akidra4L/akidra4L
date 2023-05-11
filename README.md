@@ -16,7 +16,7 @@ I am Alikhan Gubayev, currently student at KBTU. <br />
 -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikhan-gubayev-773855233/)
 
-<a href="http://www.github.com/diasatudinov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akidra4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<a href="http://www.github.com/akidra4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akidra4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=akidra4L)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
