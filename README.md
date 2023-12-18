@@ -1,5 +1,5 @@
 ### Hi! 👋
-I am Alikhan Gubayev, currently student at KBTU. <br />
+I am Alikhan Gubayev, currently student at KBTU and iOS Developer at 1Fit <br />
 📍 Almaty, Kazakhstan. <br /> 
 
 <!-- ### Top Languages Card: -->
